@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Facebook Login</string>
+    <string name="back_arrow">❮</string>
+    <string name="fb_logo_letter">f</string>
+    <string name="hint_email">Mobile number or email</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">Log in</string>
+    <string name="txt_forgot_password">Forgot password?</string>
+    <string name="btn_create_account">Create new account</string>
+    <string name="txt_meta_logo">\u221E Meta</string>
+</resources>
